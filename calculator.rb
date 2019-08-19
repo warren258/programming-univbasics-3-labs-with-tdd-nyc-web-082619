@@ -1,6 +1,6 @@
 # Add your variables here
-first_number = 
+first_number = get_variable_from_file('./calculator.rb', "first_number")
 def calculator(first_number)
-  puts first_number 
+  
   end
   
