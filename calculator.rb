@@ -1,4 +1,4 @@
 # Add your variables here
-def calculator(first_num)
+def calculator(first_number)
   puts 
   end
