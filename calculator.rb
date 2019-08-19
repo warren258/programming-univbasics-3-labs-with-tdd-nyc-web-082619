@@ -1,4 +1,4 @@
 # Add your variables here
-def calculator(first_number)
+def calculator.rb(first_number)
   
   end
